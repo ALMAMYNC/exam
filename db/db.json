@@ -1,0 +1,38 @@
+{
+  "student": [
+    {
+      "matricule": "Et-25202313218",
+      "nom": "Toure",
+      "prenom": "Aicha",
+      "id": 1,
+      "classId": 1
+    }
+  ],
+  "class": [
+    {
+      "id": 1,
+      "nomClass": "L1",
+      "effectif": 1
+    },
+    {
+      "id": 2,
+      "nomClass": "L2",
+      "effectif": 0
+    },
+    {
+      "id": 3,
+      "nomClass": "L3",
+      "effectif": 0
+    },
+    {
+      "id": 4,
+      "nomClass": "M1",
+      "effectif": 0
+    },
+    {
+      "id": 5,
+      "nomClass": "M2",
+      "effectif": 0
+    }
+  ]
+}
