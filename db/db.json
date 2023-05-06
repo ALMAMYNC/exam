@@ -1,11 +1,81 @@
 {
   "student": [
     {
-      "matricule": "Et-25202313218",
+      "matricule": "Et-65202312942-@",
+      "nom": "BARRY",
+      "prenom": "Dianwdou",
+      "id": 5,
+      "classId": 4
+    },
+    {
+      "matricule": "Et-65202324359-@",
       "nom": "Toure",
       "prenom": "Aicha",
-      "id": 1,
-      "classId": 1
+      "classId": "3",
+      "id": 6
+    },
+    {
+      "matricule": "Et-65202324517-@",
+      "nom": "Barry",
+      "prenom": "Siradjo",
+      "classId": "1",
+      "id": 8
+    },
+    {
+      "matricule": "Et-65202324546-@",
+      "nom": "Ndiaye",
+      "prenom": "Mamadou ISSA",
+      "classId": "4",
+      "id": 9
+    },
+    {
+      "matricule": "Et-65202324615-@",
+      "nom": "CAMARA",
+      "prenom": "Almamy",
+      "classId": "4",
+      "id": 10
+    },
+    {
+      "matricule": "Et-65202324638-@",
+      "nom": "Djasse ",
+      "prenom": "Lamine Robert",
+      "classId": "5",
+      "id": 11
+    },
+    {
+      "matricule": "Et-65202324710-@",
+      "nom": "Sow ",
+      "prenom": "Mamadou",
+      "classId": "5",
+      "id": 12
+    },
+    {
+      "matricule": "Et-65202324733-@",
+      "nom": "Nouhoum",
+      "prenom": "Tamboura",
+      "classId": "4",
+      "id": 13
+    },
+    {
+      "matricule": "Et-65202324823-@",
+      "nom": "Ka",
+      "prenom": "Aliou",
+      "classId": "5",
+      "id": 14
+    },
+    {
+      "matricule": "Et-65202324837-@",
+      "nom": "Djattara",
+      "prenom": "Papa Ali",
+      "classId": "3",
+      "id": 15
+    },
+    {
+      "matricule": "Et-6520232490-@",
+      "nom": "Cisse",
+      "prenom": "Fatoumata",
+      "classId": "2",
+      "id": 16
     }
   ],
   "class": [
@@ -17,22 +87,22 @@
     {
       "id": 2,
       "nomClass": "L2",
-      "effectif": 0
+      "effectif": 1
     },
     {
       "id": 3,
       "nomClass": "L3",
-      "effectif": 0
+      "effectif": 2
     },
     {
       "id": 4,
       "nomClass": "M1",
-      "effectif": 0
+      "effectif": 4
     },
     {
       "id": 5,
       "nomClass": "M2",
-      "effectif": 0
+      "effectif": 3
     }
   ]
 }
